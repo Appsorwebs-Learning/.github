@@ -2,8 +2,7 @@
 
 ## 🔮 Welcome to Appsorwebs Learning!
 
-<img src='https://res.cloudinary.com/appsorwebs/image/upload/v1658158446/Appsorwebs_Learning_mvrohr.jpg' 
->
+<img src='https://res.cloudinary.com/appsorwebs/image/upload/v1658158446/Appsorwebs_Learning_mvrohr.jpg' >
 
 ## 👨‍💻 Follow & learn @ https://www.linkedin.com/in/Appsorwebs/
 ## https://github.com/Appsorwebs
