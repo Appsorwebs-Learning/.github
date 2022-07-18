@@ -1,19 +1,34 @@
-## Hi there 👋
+## 👋 Hello World 🖥️
 
-<!--
+## 🔮 Welcome to Appsorwebs Learning!
 
-**Welcome to Appsorwebs Learning:**
+<img src='https://res.cloudinary.com/appsorwebs/image/upload/v1658158446/Appsorwebs_Learning_mvrohr.jpg >
 
-💻 Appsorwebs learning is an educational unit of Appsorwebs. 
-🌈 We believe that learning is very fundamental and everyone should have access to education. 
-💻 Useful resources? Join our learning channels @
-https://t.me/appsorwebs1
-https://web.facebook.com/Appsorwebs
-https://twitter.com/Appsorwebs
-https://www.linkedin.com/in/Appsorwebs/
-https://medium.com/@appsorwebs
-https://dev.to/appsorwebs
-https://www.reddit.com/user/Appsorwebs
-https://www.youtube.com/channel/UCHcyk0cQzQ2RD-_kYfXrCDw
-🍿 Fun facts - would you rather spend your time and data on social medias watching unproductive videos or on learning resources?
-🧙 Remember, you can do mighty things with the power of learning and skills !
+## 👨‍💻 Follow & learn @ https://www.linkedin.com/in/Appsorwebs/
+## https://github.com/Appsorwebs
+## https://twitter.com/Appsorwebs
+## https://www.instagram.com/appsorwebs/
+## https://medium.com/@appsorwebs
+## https://dev.to/appsorwebs
+## https://www.reddit.com/user/Appsorwebs
+## https://www.youtube.com/channel/UCHcyk0cQzQ2RD-_kYfXrCDw
+## 👨‍💻 Learn for FREE @https://t.me/appsorwebsLearning
+
+## 🧙 I'm a Cloud Engineer, Web, Blockchain, Software developer & founder @Appsorwebs.
+##
+<strong><em> I love learning! </em></strong>.
+##
+- ✍️I work @ <a href="https://appsorwebs.com" target="_blank"><img alt="Appsorwebs" src="https://img.shields.io/badge/-Appsorwebs-2962FF?logo=Appsorwebs&style=flat-square" /></a>
+
+
+
+- Interested in What I do? Send an 📧 to appsorwebs@gmail.com
+
+
+<p>
+
+
+</p>
+
+<!-- Appsorwebs/Appsorwebs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
