@@ -14,15 +14,15 @@
 ## https://www.youtube.com/channel/UCHcyk0cQzQ2RD-_kYfXrCDw
 ## 👨‍💻 Learn for FREE @https://t.me/appsorwebsLearning
 
-## 🧙 Free Learning & Skills @Appsorwebs.
+## 🧙 Free Learning & Skills @Appsorwebs Learning.
 ##
 <strong><em> I love learning! </em></strong>.
 ##
-- ✍️I work @ <a href="https://appsorwebs.com" target="_blank"><img alt="Appsorwebs" src="https://img.shields.io/badge/-Appsorwebs-2962FF?logo=Appsorwebs&style=flat-square" /></a>
+- 🏢 HQ @ <a href="https://appsorwebs.com" target="_blank"><img alt="Appsorwebs" src="https://img.shields.io/badge/-Appsorwebs-2962FF?logo=Appsorwebs&style=flat-square" /></a>
 
 
 
-- Interested in What I do? Send an 📧 to appsorwebs@gmail.com
+- Interested in learning or up skilling? Send an 📧 to learning@appsorwebs.com
 
 
 <p>
