@@ -14,7 +14,7 @@
 ## https://www.youtube.com/channel/UCHcyk0cQzQ2RD-_kYfXrCDw
 ## 👨‍💻 Learn for FREE @https://t.me/appsorwebsLearning
 
-## 🧙 I'm a Cloud Engineer, Web, Blockchain, Software developer & founder @Appsorwebs.
+## 🧙 Free Learning & Skills @Appsorwebs.
 ##
 <strong><em> I love learning! </em></strong>.
 ##
